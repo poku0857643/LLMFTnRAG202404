@@ -1,0 +1,19 @@
+accelerate == 0.33.0
+bitsandbytes == 0.43.0
+transformers~=4.44.2
+Django~=5.1.1
+faiss-cpu
+json
+torch
+pypdf
+python-dotenv
+joblib
+llama-index
+llama-index-llms-huggingface
+llama-index-embeddings-langchain
+langchain-community
+langchain-core
+os
+psutil
+pickle
+faiss

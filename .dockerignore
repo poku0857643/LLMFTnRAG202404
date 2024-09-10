@@ -1,3 +1,28 @@
-/env
+# Documents
 /papers
 /rag_documents
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+/env
+
+# Ignore version control folder
+.git/
+
+# Ignore database and static files
+db.sqlite3
+staticfiles/
+media/
+
+# Ignore system-level files
+*.log
+*.gz
+*.tar
+*.zip
